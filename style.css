@@ -19,3 +19,11 @@ section .fa{
 section p {
   text-align: center;
 }
+table{
+  display: flex;
+  justify-content: center;
+}
+td{
+  border: 2px solid black;
+  text-align: center;
+}
